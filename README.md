@@ -1,5 +1,5 @@
-# Python_KDK10_LAB2
+# Python_KDK10_LAB5
 **Разработка кроссплатформенных приложений.**
-**Задание 2**
+**Задание 5**
 
 ![Screenshot](screenshot.png)
