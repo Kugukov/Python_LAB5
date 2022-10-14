@@ -2,4 +2,4 @@
 **Разработка кроссплатформенных приложений.**
 **Задание 2**
 
-![Screenshot](screen(lab2).png)
+![Screenshot](screenshot.png)
